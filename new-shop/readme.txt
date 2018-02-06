@@ -1,0 +1,7 @@
+-> First clone this project to your computer.
+-> (if not extracted then extract it).
+-> go to master folder and start git bash.
+-> rename ".env.example" to ".env"
+-> command "composer install" without qouets
+-> command "php artisan key:generate" without qouets
+-> setup your .env file if need.
